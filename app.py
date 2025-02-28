@@ -1,7 +1,7 @@
 # Import the Flask class and request module from flask
 from flask import Flask, request
 
-# Create a Flask application instance
+# Create a Flask application instance---d
 app = Flask(__name__)  # '__name__' is the name of the current module
 
 # Define a route to add two numbers
